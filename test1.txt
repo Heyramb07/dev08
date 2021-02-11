@@ -1,1 +1,2 @@
 this is my first test file
+adding one line to see how SCM poll works.
